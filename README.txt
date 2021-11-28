@@ -6,4 +6,4 @@
 6. Ketika ingin login sebagai admin maka bisa login menggunakan
 email : admin@gmail.com
 password : 12345
- 7. Setelah login menggunakan akun admin maka dapat login sebagai admin dan menggunkaan fitur yang dapat diaccess sebagai admin
+7. Setelah login menggunakan akun admin maka dapat login sebagai admin dan menggunkaan fitur yang dapat diaccess sebagai admin
